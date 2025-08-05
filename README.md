@@ -1,3 +1,22 @@
+# 🤖 CodeAlpha AI ChatBot (Java)
+
+This is a simple **rule-based AI chatbot** built using **Java** as part of my internship with **CodeAlpha**. It simulates basic conversation using keyword matching logic and runs entirely in the console.
+
+---
+
+## 💡 Features
+
+- Responds to common greetings and phrases
+- Rule-based pattern matching
+- Console-based interaction
+- Beginner-friendly and easy to extend
+
+---
+
+## 📜 Code
+
+
+```java
 import java.util.Scanner;
 
 public class AIChatBot {
@@ -28,8 +47,7 @@ public class AIChatBot {
         scanner.close();
     }
 }
-Output :
-AI ChatBot: Hello! I'm your assistant. Type 'bye' to exit.
+🤖 AI ChatBot: Hello! I'm your assistant. Type 'bye' to exit.
 You: hello
 AI: Hello there! How can I help you?
 You: what's your name?
